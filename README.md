@@ -1,8 +1,6 @@
 # git-config-alias
 
-git alias instead of writing the command all the time...\
-
-All you need to do is to copy these in your terminal.\ 
+All you need to do is to copy these in your terminal.
 
 git config --global alias.co checkout\
 git config --global alias.ci commit\
